@@ -1,2 +1,2 @@
-# Battle_Tank_example
+# Battle Tank
 Open world head to head tank battle made with Unreal Engine
